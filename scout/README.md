@@ -1,3 +1,7 @@
+# DEPRECATED, see https://github.com/ypid/fdeunlock
+
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 # scout – Check the integrity of the initrd and mount encrypted root filesystem from remote
 
 This script allows you to unlock encrypted linux systems via ssh after checking that the initrd has not been tampered with.

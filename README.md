@@ -1,6 +1,6 @@
 # Collection of my scripts
 
-* scout: Check the integrity of the initrd and mount encrypted root filesystem from remote.
+* scout: DEPRECATED, see https://github.com/ypid/fdeunlock.
 * gen_random_valid_mac: Generate random but valid mac address for certain vendors.
 * analyse-pcap: Analyse pcap files with a serious of programs.
 * stealth-mode: Disable all unneeded daemons and other stuff to put my system into stealth mode ;)

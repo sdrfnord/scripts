@@ -1,3 +1,7 @@
+# VERALTET, siehe https://github.com/ypid/fdeunlock
+
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 # scout – Prüft die Integrität von der initrd und entschlüssle das root Dateisystem aus der Ferne
 
 Dieses Skript ermöglicht das Entschlüsseln von Vollverschlüsselten Linux Systemen über SSH nachdem sichergestellt wurde, dass die initrd nicht manipuliert wurde.
